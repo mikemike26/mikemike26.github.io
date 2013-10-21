@@ -492,7 +492,7 @@ Small Device Styles
     max-width: 480px;
     font-size: 11px;
   }
-  .inner img {
+  #header_wrap .inner img {
     float: none;
     margin: 0 auto;
     width: 57%;
